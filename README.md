@@ -2,7 +2,7 @@
 
 💡 I’m passionate about exploring and building **everything data science & AI**.  
 🌏 Currently working on projects that showcase not only my skills but also my eagerness to **BUILD**.  
-🎯 My long-term goal? To grow as a data scientist and relocate to my dream country — **Japan 🇯🇵**.  
+🎯 My long-term goal? To grow as a data scientist and relocate to my dream country — **Japan 🇯🇵**🗾.  
 
 ---
 
